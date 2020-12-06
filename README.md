@@ -1,2 +1,2 @@
 # my_ctf_tools
-Supplementary tools for 
+Supplementary tools for CTFToolKit
